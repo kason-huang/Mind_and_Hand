@@ -6,37 +6,17 @@
       {
         "id": "3356f5e98b967e3e",
         "type": "tabs",
-        "dimension": 70.2576112412178,
         "children": [
           {
-            "id": "c496ec7b1ee67f38",
+            "id": "f4e79b52a9b6f55e",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "excalidraw",
               "state": {
-                "aFile": "2026-05-25.md",
-                "bFile": "2026-05-25.md",
-                "aRef": ""
+                "file": "Excalidraw/Drawing 2026-05-25 11.08.36.excalidraw.md"
               },
-              "icon": "diff",
-              "title": "Diff: 2026-05-25  (Working Tree)"
-            }
-          }
-        ]
-      },
-      {
-        "id": "4989397a25f919e5",
-        "type": "tabs",
-        "dimension": 29.742388758782205,
-        "children": [
-          {
-            "id": "c06d8bffd7a039c5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-05-25 11.08.36.excalidraw"
             }
           }
         ]
@@ -192,14 +172,28 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "239c05f04e363df7",
+            "type": "leaf",
+            "state": {
+              "type": "zotero-annotation-view",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-05-25 11.08.36.excalidraw.md",
+                "itemId": -1,
+                "attachmentId": -1,
+                "follow": "ob-note"
+              },
+              "icon": "highlighter",
+              "title": "Zotero Annotations for Drawing 2026-05-25 11.08.36.excalidraw"
+            }
           }
         ],
         "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 398.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,9 +208,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7f7a04a464e35405",
+  "active": "09793c210e850908",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-05-25 11.08.36.excalidraw.md",
+    "未命名 4.base",
+    "Excalidraw/Drawing 2026-05-25 11.08.30.excalidraw.md",
+    "未命名 3.base",
+    "Excalidraw",
+    "LiteratureNotes/10.48550_ARXIV.2510.12403 1.md",
+    "LiteratureNotes/Robot Learning_ A Tutorial.md",
+    "LiteratureNotes/10.48550_arXiv.2510.12403.md",
+    "LiteratureNotes/10.48550_ARXIV.2605.06747.md",
+    "LiteratureNotes/zt-import/Other 2.md",
     "README.md",
+    "LiteratureNotes/zt-import/Other.md",
+    "LiteratureNotes/zt-import/Other 1.md",
+    "LiteratureNotes/zt-import",
+    "LiteratureNotes",
     "未命名 1.canvas",
     "2026-05-25.md",
     "未命名 2.base",
