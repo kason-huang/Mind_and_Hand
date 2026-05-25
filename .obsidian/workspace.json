@@ -92,8 +92,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -199,7 +198,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 483.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,7 +214,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab5848c096a0e45b",
+  "active": "7f7a04a464e35405",
   "lastOpenFiles": [
     "README.md",
     "未命名 1.canvas",
