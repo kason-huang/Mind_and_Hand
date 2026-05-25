@@ -11,12 +11,13 @@
             "id": "f4e79b52a9b6f55e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "bases",
               "state": {
-                "file": "Excalidraw/Drawing 2026-05-25 11.08.36.excalidraw.md"
+                "file": "未命名 5.base",
+                "viewName": "表格"
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-05-25 11.08.36.excalidraw"
+              "icon": "lucide-table",
+              "title": "未命名 5"
             }
           }
         ]
@@ -208,9 +209,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09793c210e850908",
+  "active": "f4e79b52a9b6f55e",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2026-05-25 11.08.36.excalidraw.md",
+    "未命名 5.base",
     "未命名 4.base",
     "Excalidraw/Drawing 2026-05-25 11.08.30.excalidraw.md",
     "未命名 3.base",
