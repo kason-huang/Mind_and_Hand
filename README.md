@@ -139,6 +139,52 @@ grep "^## \[" log.md | tail -5    # 查看最近 5 条操作
 
 ---
 
+### 5️⃣ Zotero 集成
+
+你的 Zotero 文献库（`C:\Users\Administrator\Zotero\storage/`）已被 LLM Wiki 识别，包含 **228 篇 PDF 论文** 和 **374 个文档文件**。
+
+#### 工作流
+
+```
+① Zotero 选取论文  →  ② 告知 LLM 论文标题/Zotero key  →  ③ LLM 直接从 Zotero 读取 PDF
+     →  ④ 讨论 + 写摘要  →  ⑤ 更新 wiki  →  ⑥ 记日志
+```
+
+#### 使用方式
+
+**方式一：从 Obsidian 已有文献笔记出发**
+
+你的 vault 中已有 ZotLit 导出的文献笔记（如 `LiteratureNotes/` 下的文件），可以直接对我说：
+
+- *"把我笔记里的那篇 EgoScale 论文 ingest 进 wiki"*
+- *"处理一下 LiteratureNotes/ 下关于 VLA 模型的那几篇"*
+
+LLM 会读取笔记中的 `zotero-key`，从 Zotero 存储中找到对应 PDF 一并阅读。
+
+**方式二：直接指定论文**
+
+- *"帮我把 Zotero 里的这篇 ingest 进 wiki：Zheng et al. 2026 - EgoScale"*
+- *"读取 Zotero 里 InternVLA_N1.pdf 这篇论文"*
+
+**方式三：批量处理**
+
+- *"把 Zotero 里最近添加的 5 篇论文 ingest 进 wiki"*
+
+> **注意**：建议一次 ingest 一篇，与 LLM 讨论质量更高。批量处理适合快速入库。
+
+#### ZotLit 插件
+
+你已安装 **[ZotLit](https://github.com/aidenlx/alx-litnote)** 插件 v1.1.12，用于 Obsidian ↔ Zotero 双向联动。工作流程配合：
+
+| 步骤 | 操作 |
+|------|------|
+| 1 | 在 Zotero 中整理文献 |
+| 2 | 用 ZotLit 从 Zotero 导入文献笔记到 Obsidian |
+| 3 | 让 LLM 读取笔记 + Zotero PDF，ingest 进 wiki |
+| 4 | wiki 中的摘要会反向链接回原始文献笔记 |
+
+---
+
 ## 完整 Ingest 示例
 
 ```
