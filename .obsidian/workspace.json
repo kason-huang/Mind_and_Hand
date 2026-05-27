@@ -224,7 +224,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 398.5
+    "width": 436.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,8 +240,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "dc5921e98f407505",
+  "active": "7f7a04a464e35405",
   "lastOpenFiles": [
+    "copilot/copilot-conversations/Greeting_in_Chinese@20260527_171345.md",
+    "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
@@ -274,10 +276,8 @@
     "LiteratureNotes/10.48550_ARXIV.2510.12403 1.md",
     "LiteratureNotes/10.48550_ARXIV.2605.06747.md",
     "未命名 5.base",
-    "Excalidraw/Drawing 2026-05-25 11.08.36.excalidraw.md",
     "未命名 4.base",
     "未命名 3.base",
-    "Excalidraw",
     "未命名 1.canvas",
     "未命名.canvas"
   ]
