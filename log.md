@@ -4,6 +4,55 @@
 
 ---
 
+## [2026-05-27] ingest | MimicPlay: Long-Horizon Imitation Learning by Watching Human Play
+- **新建**: [[wiki/sources/mimicplay]] (论文摘要)
+- **更新**: [[wiki/overview]] (加入 MimicPlay 到论文列表)
+- **更新**: [[wiki/concepts/human-to-robot-transfer]] (分层隐式规划方法)
+- **更新**: [[index.md]] (添加新条目)
+
+## [2026-05-27] ingest | Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos
+- **新建**: [[wiki/sources/being-h0]] (论文摘要)
+- **新建**: [[wiki/entities/being-h0-framework]] (实体)
+- **更新**: [[wiki/overview]] (加入 Being-H0 到论文列表和方法表)
+- **更新**: [[wiki/concepts/human-to-robot-transfer]] (显式运动建模方法)
+- **更新**: [[index.md]] (添加新条目)
+
+## [2026-05-27] ingest | EgoSchema: A Diagnostic Benchmark for Very Long-form Video Language Understanding
+- **新建**: [[wiki/sources/egoschema]] (论文摘要)
+- **新建**: [[wiki/entities/egoschema-benchmark]] (实体)
+- **新建**: [[wiki/concepts/temporal-certificate]] (核心概念)
+- **更新**: [[wiki/overview]] (加入 EgoSchema 到论文列表)
+- **更新**: [[index.md]] (添加新条目)
+
+## [2026-05-27] ingest | EgoDex: Learning Dexterous Manipulation from Large-Scale Egocentric Video
+- **新建**: [[wiki/sources/egodex]] (论文摘要)
+- **新建**: [[wiki/entities/egodex-dataset]] (实体)
+- **更新**: [[wiki/overview]] (加入 EgoDex 到论文列表)
+- **更新**: [[index.md]] (添加新条目)
+
+## [2026-05-27] ingest | SONIC: Supersizing Motion Tracking for Natural Humanoid Whole-Body Control
+- **新建**: [[wiki/sources/sonic]] (论文摘要)
+- **新建**: [[wiki/entities/sonic-framework]] (实体)
+- **更新**: [[wiki/concepts/human-to-robot-transfer]] (通用 token 空间方法)
+- **更新**: [[wiki/concepts/scaling-law-for-embodied-ai]] (运动追踪缩放)
+- **更新**: [[index.md]] (添加新条目)
+
+## [2026-05-27] ingest | EgoScale: Scaling Dexterous Manipulation with Diverse Egocentric Human Data
+- **新建**: [[wiki/sources/egoscale]] (论文摘要)
+- **新建**: [[wiki/entities/egoscale-dataset]] (实体)
+- **更新**: [[wiki/concepts/scaling-law-for-embodied-ai]] (加入 EgoScale 缩放定律公式)
+- **更新**: [[wiki/concepts/human-to-robot-transfer]] (加入 EgoScale 两阶段配方)
+- **更新**: [[index.md]] (添加新实体条目)
+
+## [2026-05-27] ingest | HumanNet: Scaling Human-centric Video Learning to One Million Hours
+- **新建**: [[wiki/sources/humannet]] (论文摘要)
+- **新建**: [[wiki/concepts/human-centric-video-learning]] (核心概念)
+- **新建**: [[wiki/concepts/human-to-robot-transfer]] (核心概念)
+- **新建**: [[wiki/concepts/scaling-law-for-embodied-ai]] (核心概念)
+- **新建**: [[wiki/entities/humannet-dataset]] (实体)
+- **新建**: [[wiki/overview]] (综合综述，首次创建)
+- **更新**: [[index.md]] (添加来源、概念、实体条目)
+
 ## [2026-05-27] init | LLM Wiki 初始化
 - **新建目录**: `raw/`, `wiki/` 及其子目录
 - **新建文件**: `index.md`, `log.md`, `.claude/CLAUDE.md`

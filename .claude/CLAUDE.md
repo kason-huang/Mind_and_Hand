@@ -208,6 +208,35 @@ lint 结果写入 log.md，并附上修复建议。
 
 ---
 
+## Zotero 集成
+
+你的 Zotero 数据库位于 `C:\Users\Administrator\Zotero\zotero.sqlite`，包含 **228+ PDF 论文**。
+
+### 查询工具
+
+一个标准化工具已在 `.claude/skills/zotero-query.js`，支持：
+
+| 命令 | 用途 |
+|------|------|
+| `node .claude/skills/zotero-query.js collections` | 列出所有文库及其子文库 |
+| `node .claude/skills/zotero-query.js collection <名称>` | 查某个文库中的论文及 PDF 路径 |
+| `node .claude/skills/zotero-query.js search <关键词>` | 按关键词搜索论文 |
+| `node .claude/skills/zotero-query.js papers <文库ID>` | 按文库 ID 列出论文 |
+
+### 提取论文到 raw/papers/
+
+```bash
+# 先用查询工具找到论文的 PDF 路径
+node .claude/skills/zotero-query.js collection ego
+
+# 然后拷贝到 raw/papers/
+cp "<PDF路径>" "raw/papers/"
+```
+
+详细文档见 [[zotero-skill.md]]。
+
+---
+
 ## Obsidian 配置建议
 
 - **附件路径**：建议在 Obsidian 设置 → 文件与链接 → 将"附件文件夹路径"设为 `raw/assets/`

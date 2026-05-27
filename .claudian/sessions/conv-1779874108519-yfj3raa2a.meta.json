@@ -4,8 +4,8 @@
   "title": "Build Karpathy-style LLM Wiki",
   "titleGenerationStatus": "success",
   "createdAt": 1779874108520,
-  "updatedAt": 1779874816424,
-  "lastResponseAt": 1779874816424,
+  "updatedAt": 1779875826793,
+  "lastResponseAt": 1779875826793,
   "sessionId": "15dd4366-fb75-4700-86fa-2b9bed3bebb3",
   "providerState": {
     "providerSessionId": "15dd4366-fb75-4700-86fa-2b9bed3bebb3"
@@ -13,12 +13,12 @@
   "currentNote": "LiteratureNotes/zt-import/AI 管家思维导图 - EgoScale_ Scaling Dexterous Manipulation with Dive.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 124,
+    "inputTokens": 101,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 57600,
+    "cacheReadInputTokens": 127616,
     "contextWindow": 200000,
-    "contextTokens": 57724,
-    "percentage": 29,
+    "contextTokens": 127717,
+    "percentage": 64,
     "contextWindowIsAuthoritative": true
   }
 }
