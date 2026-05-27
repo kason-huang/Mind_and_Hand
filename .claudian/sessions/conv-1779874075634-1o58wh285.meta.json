@@ -1,0 +1,24 @@
+{
+  "id": "conv-1779874075634-1o58wh285",
+  "providerId": "claude",
+  "title": "Greet the user",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779874075637,
+  "updatedAt": 1779874097083,
+  "lastResponseAt": 1779874083960,
+  "sessionId": "13fcb5fe-1428-4a38-89b8-488121928adc",
+  "providerState": {
+    "providerSessionId": "13fcb5fe-1428-4a38-89b8-488121928adc"
+  },
+  "currentNote": "LiteratureNotes/zt-import/AI 管家思维导图 - EgoScale_ Scaling Dexterous Manipulation with Dive.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1084,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 19840,
+    "contextWindow": 200000,
+    "contextTokens": 20924,
+    "percentage": 10,
+    "contextWindowIsAuthoritative": true
+  }
+}
