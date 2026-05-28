@@ -53,6 +53,14 @@
 - **新建**: [[wiki/overview]] (综合综述，首次创建)
 - **更新**: [[index.md]] (添加来源、概念、实体条目)
 
+## [2026-05-28] ingest | EgoMimic: Scaling Imitation Learning via Egocentric Video
+- **新建**: [[wiki/sources/egomimic]] (论文摘要)
+- **新建**: [[wiki/entities/egomimic-framework]] (实体)
+- **新建**: [[raw/notes/egomimic]] (ZotLit 笔记)
+- **更新**: [[wiki/overview]] (加入 EgoMimic 到论文列表、方法表、缩放定律)
+- **更新**: [[index.md]] (添加新条目，页面总数 15→17)
+- **说明**: 从 Zotero 拷贝 PDF (Kareer et al., Georgia Tech + Stanford, arXiv:2410.24221)
+
 ## [2026-05-28] query | Ego Data for Robotics 逻辑链归档
 - **新建**: [[wiki/queries/ego-data-for-robotics]] (问答沉淀)
 - **更新**: [[index.md]] (添加 Queries 条目)

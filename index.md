@@ -14,6 +14,7 @@
 - [[wiki/entities/egodex-dataset|EgoDex Dataset]] — 829 小时 Apple Vision Pro 灵巧操作数据集
 - [[wiki/entities/egoschema-benchmark|EgoSchema Benchmark]] — 超长视频理解基准（5,000+ QA）
 - [[wiki/entities/being-h0-framework|Being-H0 Framework]] — 基于大规模人类视频的灵巧 VLA 预训练
+- [[wiki/entities/egomimic-framework|EgoMimic Framework]] — 基于 Project Aria 的统一共训框架
 
 ## Concepts (概念)
 
@@ -31,6 +32,7 @@
 - [[wiki/sources/egoschema|EgoSchema]] — 超长视频理解诊断基准
 - [[wiki/sources/being-h0|Being-H0]] — 基于大规模人类视频的灵巧 VLA 预训练
 - [[wiki/sources/mimicplay|MimicPlay]] — 看人类玩耍学做长程操作
+- [[wiki/sources/egomimic|EgoMimic]] — 用 Project Aria 眼镜统一共训机器人策略
 
 ## Comparisons (比较分析)
 
@@ -42,5 +44,5 @@ _暂无_
 
 ---
 
-_最后更新: 2026-05-27_
-_页面总数: 15_
+_最后更新: 2026-05-28_
+_页面总数: 17_

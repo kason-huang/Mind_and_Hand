@@ -7,7 +7,7 @@ tags:
   - vla
   - humanoid
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-05-28
 ---
 
 # Embodied AI 研究综合综述
@@ -26,6 +26,7 @@ updated: 2026-05-27
 - **Being-H0** — 物理指令微调，用 UniHand 数据集（11 个来源、1155 小时）预训练灵巧 VLA
 - **EgoDex** — 用 Apple Vision Pro 采集高精度自我中心视频，829 小时表格操作
 - **EgoSchema** — 超长视频理解基准，>250 小时视频，5,000+ 问答对；引入 temporal certificate 概念，模型 < 33% vs 人类 76%
+- **EgoMimic** — 用 Project Aria 眼镜采集人类自我中心数据，与机器人数据统一共训；1h 手部数据（1400 demos）>> 1h 机器人数据（135 demos）
 
 ### 2. 模型：从 MLP 到 Foundation Model
 
@@ -39,6 +40,7 @@ updated: 2026-05-27
 
 | 方法 | 代表工作 |
 |------|---------|
+| 统一共训（人类+机器人联合策略） | EgoMimic (共享编码器 + 双输出头) |
 | 人类预训练 + 对齐中训练 | EgoScale (两阶段配方) |
 | 通用 Token 空间跨实体迁移 | SONIC (编码器-量化器-解码器) |
 | 物理指令微调（显式运动建模） | Being-H0 (三阶段: 预训练/对齐/后训练) |
@@ -52,6 +54,7 @@ updated: 2026-05-27
 | EgoScale | 人类数据量 (1K→20K 小时) | 验证损失 ~ log-linear 下降 |
 | SONIC | 模型/数据/算力三维 | 性能随三轴一致提升 |
 | HumanNet | 人类数据量 (1K→1M 小时) | 1,000h 人类 ≈ 100h 真机 |
+| EgoMimic | 人类手部 vs 机器人数据 | 1h 手部数据 >> 1h 机器人数据（采集效率 10x+） |
 
 ## 当前已知论文一览
 
@@ -64,6 +67,7 @@ updated: 2026-05-27
 | MimicPlay | Wang et al. | 分层模仿学习 + 人类玩耍数据 | 10 分钟/场景 |
 | EgoSchema | Mangalam et al. | 超长视频理解基准 + 时态证书 | >250 小时 |
 | EgoDex | Hoque et al. | Apple Vision Pro 高精度采集 | 829 小时 |
+| EgoMimic | Kareer et al. | 统一共训 + Aria 眼镜采集 + 双臂低成本平台 | 60-100 分钟/任务 |
 
 ## 下阶段方向
 
