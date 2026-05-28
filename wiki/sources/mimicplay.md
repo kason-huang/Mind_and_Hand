@@ -17,7 +17,7 @@ sources:
 ## 核心论点
 
 MimicPlay 提出**分层模仿学习**框架：先用廉价的人类玩耍数据（human play data）训练高层规划器，再用少量遥操作演示训练底层控制器。核心洞察是高层规划所需的数据和底层控制所需的数据可以用**不同形式**获取，大幅降低长程任务模仿学习的成本。
-
+[[humannet]]
 ## 关键信息
 
 - **作者**: Chen Wang, Linxi Fan 等（Stanford、NVIDIA、Georgia Tech、UT Austin、Caltech）

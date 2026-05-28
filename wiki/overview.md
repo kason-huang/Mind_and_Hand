@@ -64,9 +64,6 @@ updated: 2026-05-27
 | MimicPlay | Wang et al. | 分层模仿学习 + 人类玩耍数据 | 10 分钟/场景 |
 | EgoSchema | Mangalam et al. | 超长视频理解基准 + 时态证书 | >250 小时 |
 | EgoDex | Hoque et al. | Apple Vision Pro 高精度采集 | 829 小时 |
-| EgoSchema | Mangalam et al. | 长视频理解基准 | >250 小时 |
-| Being-H0 | Luo et al. | 人类视频 VLA 预训练 | — |
-| MimicPlay | Wang et al. | 看人学长程模仿 | 10 分钟/场景 |
 
 ## 下阶段方向
 
