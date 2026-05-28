@@ -53,6 +53,10 @@
 - **新建**: [[wiki/overview]] (综合综述，首次创建)
 - **更新**: [[index.md]] (添加来源、概念、实体条目)
 
+## [2026-05-28] export | 生成 ZotLit 风格论文笔记
+- **新建**: [[raw/notes/humannet]], [[raw/notes/sonic]], [[raw/notes/egoscale]], [[raw/notes/egodex]], [[raw/notes/egoschema]], [[raw/notes/being-h0]], [[raw/notes/mimicplay]]
+- **说明**: 从 Zotero 导出元数据，为 raw/papers/ 中 7 篇论文创建笔记
+
 ## [2026-05-27] init | LLM Wiki 初始化
 - **新建目录**: `raw/`, `wiki/` 及其子目录
 - **新建文件**: `index.md`, `log.md`, `.claude/CLAUDE.md`

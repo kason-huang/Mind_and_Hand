@@ -25,14 +25,12 @@
             "id": "6e59613769bfefd1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "raw/papers/Deng and Zhou - 2026 - HumanNet Scaling Human-centric Video Learning to One Million Hours.pdf"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-file-text",
+              "title": "Deng and Zhou - 2026 - HumanNet Scaling Human-centric Video Learning to One Million Hours"
             }
           }
         ],
@@ -216,7 +214,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -238,6 +236,14 @@
   },
   "active": "95f7357ddd5737da",
   "lastOpenFiles": [
+    "raw/notes/mimicplay.md",
+    "raw/notes/being-h0.md",
+    "raw/notes/egoschema.md",
+    "raw/notes/egodex.md",
+    "raw/notes/egoscale.md",
+    "raw/notes/sonic.md",
+    "raw/notes/humannet.md",
+    "README.md",
     "wiki/overview.md.tmp.17392.214519913a66",
     "wiki/overview.md",
     "wiki/concepts/human-centric-video-learning.md",
@@ -246,7 +252,6 @@
     "wiki/sources/egoschema.md",
     "wiki/sources/mimicplay.md",
     "raw/papers/Mangalam 等 - 2023 - EgoSchema A Diagnostic Benchmark for Very Long-form Video Language Understanding.pdf",
-    "README.md",
     "log.md.tmp.28500.07eb58fad545",
     "index.md.tmp.28500.e7f12926ca6c",
     "index.md.tmp.28500.fab295ef2049",
@@ -263,17 +268,10 @@
     "wiki/sources/sonic.md",
     "wiki/entities/egoscale-dataset.md",
     "wiki/sources/egoscale.md",
-    "raw/papers/EgoScale.txt",
     "wiki/entities/humannet-dataset.md",
     "wiki/concepts/scaling-law-for-embodied-ai.md",
     "wiki/concepts/human-to-robot-transfer.md",
     "wiki/sources/humannet.md",
-    "zotero-skill.md",
-    "LiteratureNotes/10.48550_arXiv.2602.16710.md",
-    "log.md",
-    "index.md",
-    "LiteratureNotes/zt-import/AI 管家思维导图 - EgoScale_ Scaling Dexterous Manipulation with Dive.md",
-    "copilot/copilot-conversations/Greeting_in_Chinese@20260527_171345.md",
     "未命名 1.canvas",
     "未命名.canvas"
   ]
