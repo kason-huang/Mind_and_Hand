@@ -168,5 +168,35 @@
     }
   },
   "active": "4ef1dbc170f4fd09",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "zotero-skill.md",
+    "wiki/sources/sonic.md",
+    "wiki/sources/mimicplay.md",
+    "wiki/sources/humannet.md",
+    "wiki/sources/egoschema.md",
+    "wiki/sources/egoscale.md",
+    "wiki/sources/egodex.md",
+    "wiki/sources/being-h0.md",
+    "wiki/sources",
+    "wiki/overview.md",
+    "wiki/entities/sonic-framework.md",
+    "wiki/entities/humannet-dataset.md",
+    "wiki/entities/egoschema-benchmark.md",
+    "wiki/entities/egoscale-dataset.md",
+    "wiki/entities/egodex-dataset.md",
+    "wiki/entities/being-h0-framework.md",
+    "wiki/entities",
+    "wiki/concepts/temporal-certificate.md",
+    "wiki/concepts/scaling-law-for-embodied-ai.md",
+    "wiki/concepts/human-to-robot-transfer.md",
+    "wiki/concepts/human-centric-video-learning.md",
+    "wiki/concepts",
+    "raw/papers/Zheng 等 - 2026 - EgoScale Scaling Dexterous Manipulation with Diverse Egocentric Human Data.pdf",
+    "raw/papers/Wang 等 - 2023 - MimicPlay Long-Horizon Imitation Learning by Watching Human Play.pdf",
+    "raw/papers/SONIC.txt",
+    "raw/papers/Mangalam 等 - 2023 - EgoSchema A Diagnostic Benchmark for Very Long-form Video Language Understanding.pdf",
+    "raw/papers/Luo 等 - 2025 - Being-H0 Vision-Language-Action Pretraining from Large-Scale Human Videos.pdf",
+    "raw/papers/Luo et al. - 2025 - SONIC Supersizing Motion Tracking for Natural Humanoid Whole-Body Control.pdf",
+    "raw/papers/HumanNet.txt"
+  ]
 }
