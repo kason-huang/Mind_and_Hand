@@ -4,20 +4,20 @@
   "title": "Build Karpathy-style LLM Wiki",
   "titleGenerationStatus": "success",
   "createdAt": 1779874108520,
-  "updatedAt": 1779931671928,
-  "lastResponseAt": 1779931671928,
+  "updatedAt": 1779967834677,
+  "lastResponseAt": 1779967834677,
   "sessionId": "15dd4366-fb75-4700-86fa-2b9bed3bebb3",
   "providerState": {
     "providerSessionId": "15dd4366-fb75-4700-86fa-2b9bed3bebb3"
   },
   "usage": {
     "model": "haiku",
-    "inputTokens": 409,
+    "inputTokens": 498,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 156800,
+    "cacheReadInputTokens": 161664,
     "contextWindow": 200000,
-    "contextTokens": 157209,
-    "percentage": 79,
+    "contextTokens": 162162,
+    "percentage": 81,
     "contextWindowIsAuthoritative": true
   }
 }

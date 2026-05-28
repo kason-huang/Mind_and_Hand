@@ -218,7 +218,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 754.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,6 +236,10 @@
   },
   "active": "95f7357ddd5737da",
   "lastOpenFiles": [
+    "log.md.tmp.17392.7694c5e4a00a",
+    "index.md.tmp.17392.3560debbbbe0",
+    "index.md.tmp.17392.82f1a6c07fd8",
+    "wiki/queries/ego-data-for-robotics.md",
     "raw/notes/mimicplay.md",
     "raw/notes/being-h0.md",
     "raw/notes/egoschema.md",
@@ -262,16 +266,12 @@
     "wiki/entities/egoschema-benchmark.md",
     "raw/papers/EgoSchema.txt",
     "wiki/entities/egodex-dataset.md",
-    "wiki/sources/egodex.md.tmp.28500.394b49a5d0f4",
-    "raw/papers/EgoDex.txt",
     "wiki/entities/sonic-framework.md",
     "wiki/sources/sonic.md",
     "wiki/entities/egoscale-dataset.md",
     "wiki/sources/egoscale.md",
     "wiki/entities/humannet-dataset.md",
     "wiki/concepts/scaling-law-for-embodied-ai.md",
-    "wiki/concepts/human-to-robot-transfer.md",
-    "wiki/sources/humannet.md",
     "未命名 1.canvas",
     "未命名.canvas"
   ]

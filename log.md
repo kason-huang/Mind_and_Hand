@@ -53,6 +53,10 @@
 - **新建**: [[wiki/overview]] (综合综述，首次创建)
 - **更新**: [[index.md]] (添加来源、概念、实体条目)
 
+## [2026-05-28] query | Ego Data for Robotics 逻辑链归档
+- **新建**: [[wiki/queries/ego-data-for-robotics]] (问答沉淀)
+- **更新**: [[index.md]] (添加 Queries 条目)
+
 ## [2026-05-28] export | 生成 ZotLit 风格论文笔记
 - **新建**: [[raw/notes/humannet]], [[raw/notes/sonic]], [[raw/notes/egoscale]], [[raw/notes/egodex]], [[raw/notes/egoschema]], [[raw/notes/being-h0]], [[raw/notes/mimicplay]]
 - **说明**: 从 Zotero 导出元数据，为 raw/papers/ 中 7 篇论文创建笔记
