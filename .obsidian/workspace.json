@@ -25,12 +25,14 @@
             "id": "6e59613769bfefd1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "raw/papers/Deng and Zhou - 2026 - HumanNet Scaling Human-centric Video Learning to One Million Hours.pdf"
+                "file": "wiki/queries/ego-data-for-robotics.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Deng and Zhou - 2026 - HumanNet Scaling Human-centric Video Learning to One Million Hours"
+              "icon": "lucide-file",
+              "title": "ego-data-for-robotics"
             }
           }
         ],
@@ -234,8 +236,10 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "95f7357ddd5737da",
+  "active": "6e59613769bfefd1",
   "lastOpenFiles": [
+    "raw/papers/Deng and Zhou - 2026 - HumanNet Scaling Human-centric Video Learning to One Million Hours.pdf",
+    "wiki/queries/ego-data-for-robotics.md.tmp.17392.2eaf6d5fdb31",
     "index.md.tmp.17392.2f05db37dc0c",
     "log.md.tmp.17392.d1d75b4a4d68",
     "index.md.tmp.17392.d32c3be19411",
@@ -248,7 +252,6 @@
     "raw/papers/Kareer 等 - EgoMimic Scaling Imitation Learning via Egocentric Video.pdf",
     "log.md.tmp.17392.7694c5e4a00a",
     "index.md.tmp.17392.3560debbbbe0",
-    "index.md.tmp.17392.82f1a6c07fd8",
     "wiki/queries/ego-data-for-robotics.md",
     "raw/notes/mimicplay.md",
     "raw/notes/being-h0.md",
@@ -258,7 +261,6 @@
     "raw/notes/sonic.md",
     "raw/notes/humannet.md",
     "README.md",
-    "wiki/overview.md.tmp.17392.214519913a66",
     "wiki/overview.md",
     "wiki/concepts/human-centric-video-learning.md",
     "wiki/sources/being-h0.md",
